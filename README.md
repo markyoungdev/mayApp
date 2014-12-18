@@ -1,4 +1,4 @@
-mayApp
+mayApp - test
 ======
 
 Angularjs mobile app
